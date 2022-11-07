@@ -10,6 +10,8 @@
 // if phrase is 'slow', you should print out 'yellow'
 // if phrase is 'go', you should print out 'green'
 // if phrase is anything else, you should print out 'purple'
+
+
 function getColor(phrase){
     //WRITE YOUR CODE BETWEEN THIS LINE: ↓ ↓ ↓ ↓ 
    if(phrase == 'stop') {
